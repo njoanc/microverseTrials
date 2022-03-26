@@ -32,3 +32,7 @@ body {
 #tribute-info #p1 {
   background-color: hsl(0deg 0% 80%);
 }
+
+h2 {
+  text-transform: capitalize;
+}
