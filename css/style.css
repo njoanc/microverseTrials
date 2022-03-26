@@ -28,11 +28,12 @@ body {
 #tribute-info {
   padding: var(--main-padding);
 }
-
+#tribute-info h3 {
+}
 #tribute-info #p1 {
   background-color: hsl(0deg 0% 80%);
 }
-
-h2 {
-  text-transform: capitalize;
+#tribute-info #p2 {
+}
+#tribute-info #p2 a {
 }
